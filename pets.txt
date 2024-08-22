@@ -1,0 +1,5 @@
+pigeon
+rooster
+cow
+goat
+red hen 
