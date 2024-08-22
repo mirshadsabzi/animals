@@ -3,3 +3,5 @@ rooster
 cow
 goat
 red hen 
+tall black rooster
+white fighter rooster
